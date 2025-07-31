@@ -1,0 +1,12 @@
+command = ~/.cargo/bin/nu -l
+theme = Apple System Colors Light
+font-family = Iosevka
+font-size = 16
+font-thicken = true
+font-feature = -calt
+font-feature = -liga
+font-feature = -dlig
+macos-titlebar-style = tabs
+adjust-cursor-thickness = 500%
+adjust-cursor-height = 10%
+cursor-color = #000000
